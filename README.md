@@ -225,4 +225,4 @@ ACDSee Photo Studio is available as a full free version with all features and up
 Unlock your photography potential today by downloading ACDSee Photo Studio for free! Enjoy the complete features and start optimizing your images effortlessly.
 
 ---
-**Last updated:** 2026-10-05 17:51:42 UTC
+**Last updated:** 2026-10-05 23:43:24 UTC
